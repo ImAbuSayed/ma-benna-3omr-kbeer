@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma Benna 3omr Kbeer
+
+This log tracks the cryptographic history and versioning for the song **Ma Benna 3omr Kbeer** (ma-benna-3omr-kbeer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:11:48.957113 | `v1` | `d32e93cae5497eca3cdd8f28c4a715dc2191decbd59d177804b40c5b8954fe67` | `6feefe2efd6e659a9bfd1ecefd77634490b5ed058d30568c47865849af47bb23` | `2026-05-08_ma-benna-3omr-kbeer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
